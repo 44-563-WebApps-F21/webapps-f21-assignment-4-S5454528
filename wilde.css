@@ -44,3 +44,7 @@ td{
 tr:nth-child(even) {
     background-color:springgreen;
 }
+.LORDGORING:hover{
+    text-shadow: 2px 2px 2px teal;
+    border: solid 3px yellow;
+    }
