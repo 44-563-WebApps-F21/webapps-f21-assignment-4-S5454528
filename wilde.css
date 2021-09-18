@@ -27,3 +27,20 @@ color:crimson;
 .LORDCAVERSHAM{
     color:darkmagenta;
 }
+table { 
+    border: solid 3px red;
+    width: 70%;
+}
+ th{
+     border: solid 1px red;
+     color:saddlebrown;
+     text-align: center;
+ }
+td{
+    border: solid 1px red;
+    color: slateblue;
+    text-align: left;
+}
+tr:nth-child(even) {
+    background-color:springgreen;
+}
