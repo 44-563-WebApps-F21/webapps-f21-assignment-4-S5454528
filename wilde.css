@@ -55,7 +55,7 @@ ul.navbar-horizontal {
         }
 ul.navbar-horizontal li {
         float:left;
-        background: linear-gradient(110deg  Maroon 40%,pink 50%);
+        background:maroon;
 }
 ul.navbar-horizontal a {
         display:block;
